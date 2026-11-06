@@ -1,0 +1,1317 @@
+[
+ {
+  "repo": "morluto/rea",
+  "url": "https://github.com/morluto/rea",
+  "stars": 434100,
+  "category": "MCP servers & integrations",
+  "what": "One MCP that reverse-engineers how apps work (use a sandbox)",
+  "suggested_by": [
+   "Jack Roberts",
+   "Jack Roberts"
+  ]
+ },
+ {
+  "repo": "HKUDS/CLI-Anything",
+  "url": "https://github.com/HKUDS/CLI-Anything",
+  "stars": 58306,
+  "category": "MCP servers & integrations",
+  "what": "Auto-builds command-line controls so agents can drive any app",
+  "suggested_by": [
+   "Chase AI"
+  ]
+ },
+ {
+  "repo": "github/github-mcp-server",
+  "url": "https://github.com/github/github-mcp-server",
+  "stars": 34260,
+  "category": "MCP servers & integrations",
+  "what": "GitHub's official connector for repos, issues and PRs",
+  "suggested_by": [
+   "Tech With Tim"
+  ]
+ },
+ {
+  "repo": "googleworkspace/cli",
+  "url": "https://github.com/googleworkspace/cli",
+  "stars": 32129,
+  "category": "MCP servers & integrations",
+  "what": "Lets agents use Gmail, Drive, Calendar, Docs (not an official Google product)",
+  "suggested_by": [
+   "Nate Herk",
+   "Chase AI"
+  ]
+ },
+ {
+  "repo": "ComposioHQ/composio",
+  "url": "https://github.com/ComposioHQ/composio",
+  "stars": 30945,
+  "category": "MCP servers & integrations",
+  "what": "One connector to 1000+ apps (needs an account; it holds your app logins)",
+  "suggested_by": [
+   "Tech With Tim",
+   "Tech With Tim"
+  ]
+ },
+ {
+  "repo": "every-app/open-seo",
+  "url": "https://github.com/every-app/open-seo",
+  "stars": 26516,
+  "category": "MCP servers & integrations",
+  "what": "Open-source SEO tool Claude can use (SEO data is a paid API)",
+  "suggested_by": [
+   "Nate Herk"
+  ]
+ },
+ {
+  "repo": "mcp-use/mcp-use",
+  "url": "https://github.com/mcp-use/mcp-use",
+  "stars": 10849,
+  "category": "MCP servers & integrations",
+  "what": "Developer toolkit for building your own Claude connectors",
+  "suggested_by": []
+ },
+ {
+  "repo": "makenotion/notion-mcp-server",
+  "url": "https://github.com/makenotion/notion-mcp-server",
+  "stars": 4698,
+  "category": "MCP servers & integrations",
+  "what": "Connects Claude to Notion (local server; Notion now favours its hosted one)",
+  "suggested_by": []
+ },
+ {
+  "repo": "supabase/mcp",
+  "url": "https://github.com/supabase/mcp",
+  "stars": 2994,
+  "category": "MCP servers & integrations",
+  "what": "Lets Claude create and manage your Supabase database",
+  "suggested_by": []
+ },
+ {
+  "repo": "timescale/pg-aiguide",
+  "url": "https://github.com/timescale/pg-aiguide",
+  "stars": 1882,
+  "category": "MCP servers & integrations",
+  "what": "Teaches Claude to write good Postgres database code",
+  "suggested_by": []
+ },
+ {
+  "repo": "zapier/zapier-mcp",
+  "url": "https://github.com/zapier/zapier-mcp",
+  "stars": 452,
+  "category": "MCP servers & integrations",
+  "what": "Lets Claude use your apps through Zapier (paid SaaS)",
+  "suggested_by": [
+   "Jack Roberts"
+  ]
+ },
+ {
+  "repo": "mondaycom/mcp",
+  "url": "https://github.com/mondaycom/mcp",
+  "stars": 436,
+  "category": "MCP servers & integrations",
+  "what": "Lets Claude read and update your monday.com boards",
+  "suggested_by": []
+ },
+ {
+  "repo": "slackapi/slack-skills-plugin",
+  "url": "https://github.com/slackapi/slack-skills-plugin",
+  "stars": 165,
+  "category": "MCP servers & integrations",
+  "what": "Slack's official plugin so Claude can read and post in Slack",
+  "suggested_by": []
+ },
+ {
+  "repo": "mattpocock/skills",
+  "url": "https://github.com/mattpocock/skills",
+  "stars": 315099,
+  "category": "Skills & skill packs",
+  "what": "27 free skills, incl. /grill-me, which questions your plan first",
+  "suggested_by": [
+   "Jay E",
+   "Nate Herk",
+   "Nate Herk",
+   "Ben AI",
+   "Nuno Tavares",
+   "AI Edge",
+   "Rick Mulready",
+   "Chase AI",
+   "Jack Roberts",
+   "AI LABS",
+   "Jack Roberts",
+   "Julian Ivanov",
+   "Jack Roberts",
+   "Chase AI",
+   "AI LABS",
+   "AI LABS",
+   "Austin Marchese",
+   "Julian Ivanov",
+   "Tech With Tim",
+   "AI Edge",
+   "Chase AI",
+   "Chase AI",
+   "Tech With Tim",
+   "Beau Johnson",
+   "Chase AI",
+   "FuturMinds",
+   "Chase AI"
+  ]
+ },
+ {
+  "repo": "obra/superpowers",
+  "url": "https://github.com/obra/superpowers",
+  "stars": 312982,
+  "category": "Skills & skill packs",
+  "what": "Makes Claude plan, test and review like a senior dev",
+  "suggested_by": [
+   "Nate Herk",
+   "Nate Herk",
+   "Nuno Tavares",
+   "Julian Ivanov",
+   "Chase AI",
+   "Beau Johnson"
+  ]
+ },
+ {
+  "repo": "multica-ai/andrej-karpathy-skills",
+  "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+  "stars": 229853,
+  "category": "Skills & skill packs",
+  "what": "One CLAUDE.md rules file inspired by Karpathy (not written by him)",
+  "suggested_by": [
+   "Nuno Tavares",
+   "Chase AI"
+  ]
+ },
+ {
+  "repo": "anthropics/skills",
+  "url": "https://github.com/anthropics/skills",
+  "stars": 187738,
+  "category": "Skills & skill packs",
+  "what": "Anthropic's official library of ready-made skills, incl. Skill Creator",
+  "suggested_by": [
+   "Jay E",
+   "Nate Herk",
+   "Nate Herk",
+   "Ben AI",
+   "Nuno Tavares",
+   "AI Edge",
+   "Rick Mulready",
+   "Chase AI",
+   "Jack Roberts",
+   "AI LABS",
+   "Jack Roberts",
+   "Julian Ivanov",
+   "Jack Roberts",
+   "Chase AI",
+   "AI LABS",
+   "AI LABS",
+   "Austin Marchese",
+   "Julian Ivanov",
+   "Tech With Tim",
+   "AI Edge",
+   "Chase AI",
+   "Chase AI",
+   "Tech With Tim",
+   "Beau Johnson",
+   "Chase AI",
+   "FuturMinds",
+   "Chase AI"
+  ]
+ },
+ {
+  "repo": "garrytan/gstack",
+  "url": "https://github.com/garrytan/gstack",
+  "stars": 139898,
+  "category": "Skills & skill packs",
+  "what": "YC CEO Garry Tan's pack of role-based Claude Code skills",
+  "suggested_by": [
+   "AI Edge",
+   "Tech With Tim"
+  ]
+ },
+ {
+  "repo": "addyosmani/agent-skills",
+  "url": "https://github.com/addyosmani/agent-skills",
+  "stars": 113494,
+  "category": "Skills & skill packs",
+  "what": "Spec, plan, build, test, review and ship commands",
+  "suggested_by": [
+   "Nate Herk",
+   "AI LABS"
+  ]
+ },
+ {
+  "repo": "blader/humanizer",
+  "url": "https://github.com/blader/humanizer",
+  "stars": 65233,
+  "category": "Skills & skill packs",
+  "what": "Makes Claude's writing sound less like AI (not detector-proof)",
+  "suggested_by": [
+   "Nate Herk",
+   "Tech With Tim"
+  ]
+ },
+ {
+  "repo": "cloudflare/security-audit-skill",
+  "url": "https://github.com/cloudflare/security-audit-skill",
+  "stars": 61279,
+  "category": "Skills & skill packs",
+  "what": "Turns your AI agent into a security code auditor",
+  "suggested_by": [
+   "Jack Roberts"
+  ]
+ },
+ {
+  "repo": "vercel-labs/skills",
+  "url": "https://github.com/vercel-labs/skills",
+  "stars": 38264,
+  "category": "Skills & skill packs",
+  "what": "The 'npx skills' installer, plus a Find Skills skill",
+  "suggested_by": [
+   "Jay E",
+   "Nate Herk",
+   "Nate Herk",
+   "Ben AI",
+   "Nuno Tavares",
+   "AI Edge",
+   "Rick Mulready",
+   "Chase AI",
+   "Jack Roberts",
+   "AI LABS",
+   "Jack Roberts",
+   "Julian Ivanov",
+   "Jack Roberts",
+   "Chase AI",
+   "AI LABS",
+   "AI LABS",
+   "Austin Marchese",
+   "Julian Ivanov",
+   "Tech With Tim",
+   "AI Edge",
+   "Chase AI",
+   "Chase AI",
+   "Tech With Tim",
+   "Beau Johnson",
+   "Chase AI",
+   "FuturMinds",
+   "Chase AI"
+  ]
+ },
+ {
+  "repo": "vercel-labs/agent-skills",
+  "url": "https://github.com/vercel-labs/agent-skills",
+  "stars": 33593,
+  "category": "Skills & skill packs",
+  "what": "Vercel's official skills for building and deploying websites",
+  "suggested_by": [
+   "Nate Herk",
+   "AI LABS"
+  ]
+ },
+ {
+  "repo": "AgriciDaniel/claude-seo",
+  "url": "https://github.com/AgriciDaniel/claude-seo",
+  "stars": 26912,
+  "category": "Skills & skill packs",
+  "what": "Claude Code plugin that audits and fixes website SEO",
+  "suggested_by": [
+   "Jack Roberts"
+  ]
+ },
+ {
+  "repo": "AgriciDaniel/claude-ads",
+  "url": "https://github.com/AgriciDaniel/claude-ads",
+  "stars": 10766,
+  "category": "Skills & skill packs",
+  "what": "Claude skill for auditing and planning paid ad campaigns",
+  "suggested_by": []
+ },
+ {
+  "repo": "HKUDS/AgentPilot",
+  "url": "https://github.com/HKUDS/AgentPilot",
+  "stars": 7784,
+  "category": "Skills & skill packs",
+  "what": "Tracks and improves the skills your agent uses",
+  "suggested_by": []
+ },
+ {
+  "repo": "Leonxlnx/unlazy",
+  "url": "https://github.com/Leonxlnx/unlazy",
+  "stars": 4313,
+  "category": "Skills & skill packs",
+  "what": "Makes Claude finish big tasks fully and prove it",
+  "suggested_by": [
+   "AI LABS"
+  ]
+ },
+ {
+  "repo": "expo/skills",
+  "url": "https://github.com/expo/skills",
+  "stars": 4063,
+  "category": "Skills & skill packs",
+  "what": "Official Expo skills that help Claude build mobile apps",
+  "suggested_by": [
+   "Jay E",
+   "Nate Herk",
+   "Nate Herk",
+   "Ben AI",
+   "Nuno Tavares",
+   "AI Edge",
+   "Rick Mulready",
+   "Chase AI",
+   "Jack Roberts",
+   "AI LABS",
+   "Jack Roberts",
+   "Julian Ivanov",
+   "Jack Roberts",
+   "Chase AI",
+   "AI LABS",
+   "AI LABS",
+   "Austin Marchese",
+   "Julian Ivanov",
+   "Tech With Tim",
+   "AI Edge",
+   "Chase AI",
+   "Chase AI",
+   "Tech With Tim",
+   "Beau Johnson",
+   "Chase AI",
+   "FuturMinds",
+   "Chase AI"
+  ]
+ },
+ {
+  "repo": "supabase/agent-skills",
+  "url": "https://github.com/supabase/agent-skills",
+  "stars": 3009,
+  "category": "Skills & skill packs",
+  "what": "Official Supabase skills so Claude builds databases correctly",
+  "suggested_by": [
+   "Nate Herk",
+   "AI LABS"
+  ]
+ },
+ {
+  "repo": "stripe/ai",
+  "url": "https://github.com/stripe/ai",
+  "stars": 2043,
+  "category": "Skills & skill packs",
+  "what": "Stripe's official skills and tools for adding payments",
+  "suggested_by": [
+   "Nate Herk"
+  ]
+ },
+ {
+  "repo": "daveebbelaar/bama",
+  "url": "https://github.com/daveebbelaar/bama",
+  "stars": 1603,
+  "category": "Skills & skill packs",
+  "what": "Skills that rebuild apps you like as Mac apps",
+  "suggested_by": [
+   "Jack Roberts"
+  ]
+ },
+ {
+  "repo": "BehiSecc/VibeSec-Skill",
+  "url": "https://github.com/BehiSecc/VibeSec-Skill",
+  "stars": 1378,
+  "category": "Skills & skill packs",
+  "what": "Security checklist skill for vibe-coded apps",
+  "suggested_by": [
+   "Tech With Tim"
+  ]
+ },
+ {
+  "repo": "FloWritesCode/fwc-swiftui-skills",
+  "url": "https://github.com/FloWritesCode/fwc-swiftui-skills",
+  "stars": 454,
+  "category": "Skills & skill packs",
+  "what": "Two skills for modern iPhone apps in SwiftUI",
+  "suggested_by": [
+   "AI LABS"
+  ]
+ },
+ {
+  "repo": "edonadei/caliper",
+  "url": "https://github.com/edonadei/caliper",
+  "stars": 226,
+  "category": "Skills & skill packs",
+  "what": "Tests whether your Claude skills actually help",
+  "suggested_by": [
+   "AI LABS"
+  ]
+ },
+ {
+  "repo": "affaan-m/ECC",
+  "url": "https://github.com/affaan-m/ECC",
+  "stars": 297824,
+  "category": "Plugins & workflows",
+  "what": "Giant all-in-one pack of agents, skills and hooks (heavy)",
+  "suggested_by": [
+   "Beau Johnson"
+  ]
+ },
+ {
+  "repo": "DietrichGebert/ponytail",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "stars": 185187,
+  "category": "Plugins & workflows",
+  "what": "Makes Claude write the least code that still works",
+  "suggested_by": [
+   "Nate Herk",
+   "Better Stack",
+   "AI LABS",
+   "Chase AI"
+  ]
+ },
+ {
+  "repo": "ai-job-search-dev/ai-job-search",
+  "url": "https://github.com/ai-job-search-dev/ai-job-search",
+  "stars": 69857,
+  "category": "Plugins & workflows",
+  "what": "Claude finds jobs, tailors your CV, drafts cover letters",
+  "suggested_by": [
+   "Jack Roberts"
+  ]
+ },
+ {
+  "repo": "anthropics/claude-plugins-official",
+  "url": "https://github.com/anthropics/claude-plugins-official",
+  "stars": 46223,
+  "category": "Plugins & workflows",
+  "what": "Anthropic's official plugin directory for Claude Code",
+  "suggested_by": [
+   "Nate Herk",
+   "Nate Herk",
+   "Julian Ivanov"
+  ]
+ },
+ {
+  "repo": "openai/codex-plugin-cc",
+  "url": "https://github.com/openai/codex-plugin-cc",
+  "stars": 34915,
+  "category": "Plugins & workflows",
+  "what": "Run OpenAI's Codex inside Claude Code for second opinions",
+  "suggested_by": [
+   "Austin Marchese",
+   "Chase AI"
+  ]
+ },
+ {
+  "repo": "anthropics/knowledge-work-plugins",
+  "url": "https://github.com/anthropics/knowledge-work-plugins",
+  "stars": 34853,
+  "category": "Plugins & workflows",
+  "what": "Anthropic's official job-role plugins (sales, legal, marketing and more)",
+  "suggested_by": []
+ },
+ {
+  "repo": "EveryInc/compound-engineering-plugin",
+  "url": "https://github.com/EveryInc/compound-engineering-plugin",
+  "stars": 25942,
+  "category": "Plugins & workflows",
+  "what": "Plan, build, review, then save lessons so Claude improves",
+  "suggested_by": [
+   "Austin Marchese"
+  ]
+ },
+ {
+  "repo": "rehan-remade/universal-modder",
+  "url": "https://github.com/rehan-remade/universal-modder",
+  "stars": 9443,
+  "category": "Plugins & workflows",
+  "what": "Lets Claude Code create mods for PC games you own",
+  "suggested_by": [
+   "Jack Roberts"
+  ]
+ },
+ {
+  "repo": "dmmulroy/anti-slop",
+  "url": "https://github.com/dmmulroy/anti-slop",
+  "stars": 5963,
+  "category": "Plugins & workflows",
+  "what": "Lint rules that catch sloppy AI-written JavaScript",
+  "suggested_by": [
+   "AI LABS",
+   "Austin Marchese"
+  ]
+ },
+ {
+  "repo": "chaseai-yt/claudex-loop",
+  "url": "https://github.com/chaseai-yt/claudex-loop",
+  "stars": 3355,
+  "category": "Plugins & workflows",
+  "what": "Claude and Codex review each other's plans and code",
+  "suggested_by": [
+   "Chase AI"
+  ]
+ },
+ {
+  "repo": "reticlehq/reticle",
+  "url": "https://github.com/reticlehq/reticle",
+  "stars": 1246,
+  "category": "Plugins & workflows",
+  "what": "Checks if the app Claude built actually works",
+  "suggested_by": [
+   "AI LABS"
+  ]
+ },
+ {
+  "repo": "hamzafer/claude-code-mods",
+  "url": "https://github.com/hamzafer/claude-code-mods",
+  "stars": 446,
+  "category": "Plugins & workflows",
+  "what": "Mods for Claude Code, like suggested next steps",
+  "suggested_by": [
+   "Ben AI",
+   "Julian Ivanov"
+  ]
+ },
+ {
+  "repo": "data-goblin/claude-code-filetree",
+  "url": "https://github.com/data-goblin/claude-code-filetree",
+  "stars": 377,
+  "category": "Plugins & workflows",
+  "what": "Live file sidebar that shows which files Claude touches",
+  "suggested_by": [
+   "Jay E",
+   "Julian Ivanov"
+  ]
+ },
+ {
+  "repo": "JohnnyVizz/claude-kit",
+  "url": "https://github.com/JohnnyVizz/claude-kit",
+  "stars": 353,
+  "category": "Plugins & workflows",
+  "what": "Live progress bar and sub-agent panel for Claude Code",
+  "suggested_by": [
+   "Jay E",
+   "Ben AI",
+   "Julian Ivanov"
+  ]
+ },
+ {
+  "repo": "anthropics/claude-code-playground",
+  "url": "https://github.com/anthropics/claude-code-playground",
+  "stars": 339,
+  "category": "Plugins & workflows",
+  "what": "Anthropic team's unofficial sample mods, like a risky-command blocker",
+  "suggested_by": [
+   "Jay E",
+   "Julian Ivanov"
+  ]
+ },
+ {
+  "repo": "vercel/vercel-plugin",
+  "url": "https://github.com/vercel/vercel-plugin",
+  "stars": 326,
+  "category": "Plugins & workflows",
+  "what": "Official plugin that helps Claude deploy websites on Vercel",
+  "suggested_by": []
+ },
+ {
+  "repo": "oliverow/catch-me-up",
+  "url": "https://github.com/oliverow/catch-me-up",
+  "stars": 5,
+  "category": "Plugins & workflows",
+  "what": "Side panel with a live summary of your session",
+  "suggested_by": [
+   "Julian Ivanov"
+  ]
+ },
+ {
+  "repo": "msitarzewski/agency-agents",
+  "url": "https://github.com/msitarzewski/agency-agents",
+  "stars": 166732,
+  "category": "Agents & orchestration",
+  "what": "Hundreds of ready-made AI 'employee' roles for Claude",
+  "suggested_by": [
+   "FuturMinds"
+  ]
+ },
+ {
+  "repo": "anthropics/claude-code",
+  "url": "https://github.com/anthropics/claude-code",
+  "stars": 154663,
+  "category": "Agents & orchestration",
+  "what": "Claude Code's official repo: changelog, plugins, issues (not the source code)",
+  "suggested_by": [
+   "Jay E",
+   "Nate Herk",
+   "Nate Herk",
+   "Better Stack",
+   "Ben AI",
+   "Nuno Tavares",
+   "Better Stack",
+   "Better Stack",
+   "Rick Mulready",
+   "Chase AI",
+   "AI LABS",
+   "Jack Roberts",
+   "Julian Ivanov",
+   "Chase AI",
+   "AI LABS",
+   "AI LABS",
+   "Austin Marchese",
+   "Julian Ivanov",
+   "Tech With Tim",
+   "Chase AI",
+   "Chase AI",
+   "Tech With Tim",
+   "Beau Johnson",
+   "Chase AI",
+   "FuturMinds",
+   "Chase AI"
+  ]
+ },
+ {
+  "repo": "stablyai/orca",
+  "url": "https://github.com/stablyai/orca",
+  "stars": 116605,
+  "category": "Agents & orchestration",
+  "what": "App for running many coding agents side by side",
+  "suggested_by": [
+   "Chase AI",
+   "Jack Roberts"
+  ]
+ },
+ {
+  "repo": "karpathy/autoresearch",
+  "url": "https://github.com/karpathy/autoresearch",
+  "stars": 99309,
+  "category": "Agents & orchestration",
+  "what": "Karpathy's agent loop for overnight ML experiments (needs an NVIDIA GPU)",
+  "suggested_by": [
+   "Chase AI"
+  ]
+ },
+ {
+  "repo": "ruvnet/ruflo",
+  "url": "https://github.com/ruvnet/ruflo",
+  "stars": 80990,
+  "category": "Agents & orchestration",
+  "what": "Runs big swarms of Claude agents working together",
+  "suggested_by": [
+   "Nuno Tavares"
+  ]
+ },
+ {
+  "repo": "herdrdev/herdr",
+  "url": "https://github.com/herdrdev/herdr",
+  "stars": 48296,
+  "category": "Agents & orchestration",
+  "what": "Terminal app to run and watch many AI agents",
+  "suggested_by": [
+   "Chase AI"
+  ]
+ },
+ {
+  "repo": "pingdotgg/t3code",
+  "url": "https://github.com/pingdotgg/t3code",
+  "stars": 48182,
+  "category": "Agents & orchestration",
+  "what": "One app to run Claude Code, Codex and others",
+  "suggested_by": [
+   "Beau Johnson"
+  ]
+ },
+ {
+  "repo": "block/buzz",
+  "url": "https://github.com/block/buzz",
+  "stars": 36757,
+  "category": "Agents & orchestration",
+  "what": "Block's Slack-like chat where people and AI agents work together",
+  "suggested_by": []
+ },
+ {
+  "repo": "google/elephant-goldfish-model",
+  "url": "https://github.com/google/elephant-goldfish-model",
+  "stars": 12389,
+  "category": "Agents & orchestration",
+  "what": "Plans software, then fresh AI reviewers poke holes in it",
+  "suggested_by": [
+   "Jack Roberts"
+  ]
+ },
+ {
+  "repo": "anthropics/claude-agent-sdk-python",
+  "url": "https://github.com/anthropics/claude-agent-sdk-python",
+  "stars": 8435,
+  "category": "Agents & orchestration",
+  "what": "Anthropic's toolkit for building your own Claude agents",
+  "suggested_by": []
+ },
+ {
+  "repo": "Q00/ouroboros",
+  "url": "https://github.com/Q00/ouroboros",
+  "stars": 6326,
+  "category": "Agents & orchestration",
+  "what": "Interviews you about an app idea, then builds and checks it",
+  "suggested_by": [
+   "AI LABS"
+  ]
+ },
+ {
+  "repo": "louislva/claude-peers-mcp",
+  "url": "https://github.com/louislva/claude-peers-mcp",
+  "stars": 2208,
+  "category": "Agents & orchestration",
+  "what": "Lets several Claude Code windows message each other",
+  "suggested_by": [
+   "Chase AI"
+  ]
+ },
+ {
+  "repo": "Jakeschincariol/arena-skill",
+  "url": "https://github.com/Jakeschincariol/arena-skill",
+  "stars": 1265,
+  "category": "Agents & orchestration",
+  "what": "100 Claude answers compete bracket-style; best one wins (costly)",
+  "suggested_by": [
+   "Jack Roberts"
+  ]
+ },
+ {
+  "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+  "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+  "stars": 145687,
+  "category": "Design & UI",
+  "what": "Skill that gives Claude better design taste for apps",
+  "suggested_by": []
+ },
+ {
+  "repo": "Leonxlnx/taste-skill",
+  "url": "https://github.com/Leonxlnx/taste-skill",
+  "stars": 110601,
+  "category": "Design & UI",
+  "what": "Makes AI-built websites look designed, not generic",
+  "suggested_by": [
+   "AI LABS"
+  ]
+ },
+ {
+  "repo": "nexu-io/open-design",
+  "url": "https://github.com/nexu-io/open-design",
+  "stars": 106107,
+  "category": "Design & UI",
+  "what": "Free, local Claude Design alternative for sites, decks, prototypes",
+  "suggested_by": [
+   "Nuno Tavares"
+  ]
+ },
+ {
+  "repo": "pbakaus/impeccable",
+  "url": "https://github.com/pbakaus/impeccable",
+  "stars": 103841,
+  "category": "Design & UI",
+  "what": "Commands that make Claude's website designs look less generic",
+  "suggested_by": [
+   "Chase AI",
+   "Chase AI"
+  ]
+ },
+ {
+  "repo": "cathrynlavery/diagram-design",
+  "url": "https://github.com/cathrynlavery/diagram-design",
+  "stars": 65278,
+  "category": "Design & UI",
+  "what": "Turns one sentence into a clean, designed diagram",
+  "suggested_by": [
+   "Jack Roberts"
+  ]
+ },
+ {
+  "repo": "Nutlope/hallmark",
+  "url": "https://github.com/Nutlope/hallmark",
+  "stars": 48684,
+  "category": "Design & UI",
+  "what": "Stops AI from making generic, fake-looking websites",
+  "suggested_by": [
+   "Jack Roberts"
+  ]
+ },
+ {
+  "repo": "img2threejs/img2threejs",
+  "url": "https://github.com/img2threejs/img2threejs",
+  "stars": 20343,
+  "category": "Design & UI",
+  "what": "Turns a picture of an object into a 3D web model",
+  "suggested_by": [
+   "AI LABS"
+  ]
+ },
+ {
+  "repo": "ibelick/ui-skills",
+  "url": "https://github.com/ibelick/ui-skills",
+  "stars": 10679,
+  "category": "Design & UI",
+  "what": "Searchable library of design skills Claude loads on demand",
+  "suggested_by": [
+   "AI LABS"
+  ]
+ },
+ {
+  "repo": "21st-dev/magic-mcp",
+  "url": "https://github.com/21st-dev/magic-mcp",
+  "stars": 6390,
+  "category": "Design & UI",
+  "what": "Lets Claude grab 21st.dev UI components (API key, partly paid)",
+  "suggested_by": []
+ },
+ {
+  "repo": "coleam00/excalidraw-diagram-skill",
+  "url": "https://github.com/coleam00/excalidraw-diagram-skill",
+  "stars": 5197,
+  "category": "Design & UI",
+  "what": "Claude draws editable Excalidraw diagrams from plain English",
+  "suggested_by": [
+   "Julian Ivanov"
+  ]
+ },
+ {
+  "repo": "nateherkai/scroll-craft",
+  "url": "https://github.com/nateherkai/scroll-craft",
+  "stars": 4581,
+  "category": "Design & UI",
+  "what": "Skill for building Apple-style scrolling websites",
+  "suggested_by": [
+   "Nate Herk"
+  ]
+ },
+ {
+  "repo": "figma/mcp-server-guide",
+  "url": "https://github.com/figma/mcp-server-guide",
+  "stars": 2153,
+  "category": "Design & UI",
+  "what": "Guide to Figma's MCP: Claude turns designs into code (paid seat)",
+  "suggested_by": []
+ },
+ {
+  "repo": "Motionsites-AI/claude-skill",
+  "url": "https://github.com/Motionsites-AI/claude-skill",
+  "stars": 1716,
+  "category": "Design & UI",
+  "what": "Skill that makes Claude build flashy animated landing pages",
+  "suggested_by": [
+   "Jack Roberts"
+  ]
+ },
+ {
+  "repo": "NiazMorshed2007/reanimate",
+  "url": "https://github.com/NiazMorshed2007/reanimate",
+  "stars": 1238,
+  "category": "Design & UI",
+  "what": "Copies animations from websites into your own project",
+  "suggested_by": [
+   "AI LABS"
+  ]
+ },
+ {
+  "repo": "rossark0/rossark-motion-skill",
+  "url": "https://github.com/rossark0/rossark-motion-skill",
+  "stars": 715,
+  "category": "Design & UI",
+  "what": "Claude skill that animates SVG drawings and mascots",
+  "suggested_by": [
+   "AI LABS"
+  ]
+ },
+ {
+  "repo": "hellosverre/claude-skins",
+  "url": "https://github.com/hellosverre/claude-skins",
+  "stars": 264,
+  "category": "Design & UI",
+  "what": "Restyles Claude Code with icons, cards and color themes",
+  "suggested_by": [
+   "Jay E"
+  ]
+ },
+ {
+  "repo": "Graphify-Labs/graphify",
+  "url": "https://github.com/Graphify-Labs/graphify",
+  "stars": 142925,
+  "category": "Memory, notes & context",
+  "what": "Maps your project into a graph Claude can search",
+  "suggested_by": [
+   "Chase AI",
+   "Chase AI"
+  ]
+ },
+ {
+  "repo": "thedotmack/claude-mem",
+  "url": "https://github.com/thedotmack/claude-mem",
+  "stars": 113498,
+  "category": "Memory, notes & context",
+  "what": "Gives Claude Code memory across sessions (pushes a hosted trial)",
+  "suggested_by": [
+   "Nate Herk",
+   "Beau Johnson"
+  ]
+ },
+ {
+  "repo": "kepano/obsidian-skills",
+  "url": "https://github.com/kepano/obsidian-skills",
+  "stars": 50831,
+  "category": "Memory, notes & context",
+  "what": "Teaches Claude Obsidian's note formats (by Obsidian's CEO)",
+  "suggested_by": [
+   "Nuno Tavares",
+   "Julian Ivanov",
+   "Chase AI"
+  ]
+ },
+ {
+  "repo": "mksglu/context-mode",
+  "url": "https://github.com/mksglu/context-mode",
+  "stars": 33555,
+  "category": "Memory, notes & context",
+  "what": "Keeps bulky tool output out of Claude's context, saving tokens",
+  "suggested_by": [
+   "Nate Herk",
+   "Better Stack"
+  ]
+ },
+ {
+  "repo": "AgriciDaniel/claude-obsidian",
+  "url": "https://github.com/AgriciDaniel/claude-obsidian",
+  "stars": 16198,
+  "category": "Memory, notes & context",
+  "what": "Claude organizes your notes into a linked Obsidian wiki",
+  "suggested_by": [
+   "Chase AI"
+  ]
+ },
+ {
+  "repo": "BayramAnnakov/claude-reflect",
+  "url": "https://github.com/BayramAnnakov/claude-reflect",
+  "stars": 1919,
+  "category": "Memory, notes & context",
+  "what": "Saves your corrections to Claude as permanent rules",
+  "suggested_by": [
+   "Jay E",
+   "Ben AI"
+  ]
+ },
+ {
+  "repo": "nvsravank/visible-compact",
+  "url": "https://github.com/nvsravank/visible-compact",
+  "stars": 4,
+  "category": "Memory, notes & context",
+  "what": "Shows what Claude dropped when it compacts a chat",
+  "suggested_by": [
+   "Julian Ivanov"
+  ]
+ },
+ {
+  "repo": "JuliusBrussee/caveman",
+  "url": "https://github.com/JuliusBrussee/caveman",
+  "stars": 117749,
+  "category": "Cost & token savers",
+  "what": "Makes Claude answer in short caveman style to save tokens",
+  "suggested_by": [
+   "Nate Herk",
+   "Better Stack",
+   "AI LABS",
+   "Austin Marchese",
+   "Chase AI"
+  ]
+ },
+ {
+  "repo": "rtk-ai/rtk",
+  "url": "https://github.com/rtk-ai/rtk",
+  "stars": 85650,
+  "category": "Cost & token savers",
+  "what": "Shrinks command output so Claude uses fewer tokens",
+  "suggested_by": []
+ },
+ {
+  "repo": "getagentseal/codeburn",
+  "url": "https://github.com/getagentseal/codeburn",
+  "stars": 11700,
+  "category": "Cost & token savers",
+  "what": "Shows where your AI coding tokens and money go",
+  "suggested_by": [
+   "Nate Herk",
+   "Austin Marchese"
+  ]
+ },
+ {
+  "repo": "JayPokale/Chisle",
+  "url": "https://github.com/JayPokale/Chisle",
+  "stars": 740,
+  "category": "Cost & token savers",
+  "what": "Makes Claude use fewer tokens with shorter answers",
+  "suggested_by": [
+   "AI LABS"
+  ]
+ },
+ {
+  "repo": "karanb192/cache-tax",
+  "url": "https://github.com/karanb192/cache-tax",
+  "stars": 349,
+  "category": "Cost & token savers",
+  "what": "Warns before costly cold-cache messages; keeps the cache warm",
+  "suggested_by": [
+   "Jay E",
+   "Ben AI",
+   "Julian Ivanov"
+  ]
+ },
+ {
+  "repo": "tt-a1i/archify",
+  "url": "https://github.com/tt-a1i/archify",
+  "stars": 93830,
+  "category": "Docs, research & knowledge",
+  "what": "Turns code or ideas into interactive diagrams",
+  "suggested_by": [
+   "Better Stack",
+   "AI Edge",
+   "Chase AI"
+  ]
+ },
+ {
+  "repo": "mvanhorn/last30days-skill",
+  "url": "https://github.com/mvanhorn/last30days-skill",
+  "stars": 66733,
+  "category": "Docs, research & knowledge",
+  "what": "Researches what people are saying online about any topic",
+  "suggested_by": []
+ },
+ {
+  "repo": "upstash/context7",
+  "url": "https://github.com/upstash/context7",
+  "stars": 64245,
+  "category": "Docs, research & knowledge",
+  "what": "Feeds Claude current library docs so code isn't outdated",
+  "suggested_by": [
+   "Julian Ivanov",
+   "Tech With Tim"
+  ]
+ },
+ {
+  "repo": "teng-lin/notebooklm-py",
+  "url": "https://github.com/teng-lin/notebooklm-py",
+  "stars": 20126,
+  "category": "Docs, research & knowledge",
+  "what": "Unofficial bridge from Claude to Google NotebookLM (can break)",
+  "suggested_by": [
+   "Julian Ivanov",
+   "Chase AI",
+   "Chase AI"
+  ]
+ },
+ {
+  "repo": "karanb192/awesome-claude-code-mods",
+  "url": "https://github.com/karanb192/awesome-claude-code-mods",
+  "stars": 876,
+  "category": "Docs, research & knowledge",
+  "what": "Big directory of 6,000+ Claude Code mods (unvetted)",
+  "suggested_by": [
+   "Julian Ivanov"
+  ]
+ },
+ {
+  "repo": "heygen-com/hyperframes",
+  "url": "https://github.com/heygen-com/hyperframes",
+  "stars": 79508,
+  "category": "Video & media",
+  "what": "Claude writes HTML animations, renders them into real MP4s",
+  "suggested_by": [
+   "Nate Herk",
+   "Jack Roberts"
+  ]
+ },
+ {
+  "repo": "calesthio/OpenMontage",
+  "url": "https://github.com/calesthio/OpenMontage",
+  "stars": 77103,
+  "category": "Video & media",
+  "what": "Turns Claude into a full video production studio",
+  "suggested_by": [
+   "Chase AI"
+  ]
+ },
+ {
+  "repo": "bradautomates/claude-video",
+  "url": "https://github.com/bradautomates/claude-video",
+  "stars": 19939,
+  "category": "Video & media",
+  "what": "Lets Claude watch videos via frames and transcripts",
+  "suggested_by": [
+   "AI LABS",
+   "Chase AI"
+  ]
+ },
+ {
+  "repo": "remotion-dev/skills",
+  "url": "https://github.com/remotion-dev/skills",
+  "stars": 6414,
+  "category": "Video & media",
+  "what": "Teaches Claude to make real videos in code with Remotion",
+  "suggested_by": [
+   "Jay E",
+   "Nate Herk",
+   "Nate Herk",
+   "Ben AI",
+   "Nuno Tavares",
+   "AI Edge",
+   "Rick Mulready",
+   "Chase AI",
+   "Jack Roberts",
+   "AI LABS",
+   "Jack Roberts",
+   "Julian Ivanov",
+   "Jack Roberts",
+   "Chase AI",
+   "AI LABS",
+   "AI LABS",
+   "Austin Marchese",
+   "Julian Ivanov",
+   "Tech With Tim",
+   "AI Edge",
+   "Chase AI",
+   "Chase AI",
+   "Tech With Tim",
+   "Beau Johnson",
+   "Chase AI",
+   "FuturMinds",
+   "Chase AI"
+  ]
+ },
+ {
+  "repo": "Leonxlnx/earshot",
+  "url": "https://github.com/Leonxlnx/earshot",
+  "stars": 3989,
+  "category": "Video & media",
+  "what": "Lets AI agents hear, check and add sound to videos",
+  "suggested_by": [
+   "AI LABS"
+  ]
+ },
+ {
+  "repo": "alchaincyf/huashu-motion",
+  "url": "https://github.com/alchaincyf/huashu-motion",
+  "stars": 2411,
+  "category": "Video & media",
+  "what": "Agent skill making product launch videos synced to music",
+  "suggested_by": [
+   "AI LABS"
+  ]
+ },
+ {
+  "repo": "vincentsch/explainroo",
+  "url": "https://github.com/vincentsch/explainroo",
+  "stars": 792,
+  "category": "Video & media",
+  "what": "Free tool that turns a script into a narrated explainer",
+  "suggested_by": [
+   "AI LABS"
+  ]
+ },
+ {
+  "repo": "win4r/video-director",
+  "url": "https://github.com/win4r/video-director",
+  "stars": 337,
+  "category": "Video & media",
+  "what": "Claude skill that plans and quality-checks code-made videos",
+  "suggested_by": [
+   "AI LABS"
+  ]
+ },
+ {
+  "repo": "talsiach/take-one",
+  "url": "https://github.com/talsiach/take-one",
+  "stars": 202,
+  "category": "Video & media",
+  "what": "Claude skill that makes launch videos and ads from one line",
+  "suggested_by": [
+   "AI LABS"
+  ]
+ },
+ {
+  "repo": "shreyaskarnik/argo",
+  "url": "https://github.com/shreyaskarnik/argo",
+  "stars": 134,
+  "category": "Video & media",
+  "what": "Records your app in a browser into narrated demos",
+  "suggested_by": [
+   "AI LABS"
+  ]
+ },
+ {
+  "repo": "microsoft/playwright-mcp",
+  "url": "https://github.com/microsoft/playwright-mcp",
+  "stars": 39228,
+  "category": "Browser, web & search",
+  "what": "Lets Claude open and click around a real browser (MCP version, heavier on tokens)",
+  "suggested_by": []
+ },
+ {
+  "repo": "microsoft/playwright-cli",
+  "url": "https://github.com/microsoft/playwright-cli",
+  "stars": 14987,
+  "category": "Browser, web & search",
+  "what": "Microsoft's lighter browser control, its pick for coding agents like Claude Code",
+  "suggested_by": [
+   "Nate Herk",
+   "Julian Ivanov"
+  ]
+ },
+ {
+  "repo": "apify/apify-mcp-server",
+  "url": "https://github.com/apify/apify-mcp-server",
+  "stars": 14927,
+  "category": "Browser, web & search",
+  "what": "Lets Claude run Apify's ready-made scrapers (paid credits)",
+  "suggested_by": [
+   "Nate Herk"
+  ]
+ },
+ {
+  "repo": "firecrawl/firecrawl-mcp-server",
+  "url": "https://github.com/firecrawl/firecrawl-mcp-server",
+  "stars": 7765,
+  "category": "Browser, web & search",
+  "what": "Lets Claude search and scrape websites via Firecrawl",
+  "suggested_by": []
+ },
+ {
+  "repo": "exa-labs/exa-mcp-server",
+  "url": "https://github.com/exa-labs/exa-mcp-server",
+  "stars": 5213,
+  "category": "Browser, web & search",
+  "what": "Gives Claude a smarter, meaning-based web search",
+  "suggested_by": []
+ },
+ {
+  "repo": "zenbu-labs/terminal-browser",
+  "url": "https://github.com/zenbu-labs/terminal-browser",
+  "stars": 4460,
+  "category": "Browser, web & search",
+  "what": "A real web browser that runs inside your terminal",
+  "suggested_by": [
+   "Jay E"
+  ]
+ },
+ {
+  "repo": "firecrawl/cli",
+  "url": "https://github.com/firecrawl/cli",
+  "stars": 678,
+  "category": "Browser, web & search",
+  "what": "Firecrawl's CLI + skill for crawling whole websites",
+  "suggested_by": [
+   "Julian Ivanov"
+  ]
+ },
+ {
+  "repo": "firecrawl/firecrawl-claude-plugin",
+  "url": "https://github.com/firecrawl/firecrawl-claude-plugin",
+  "stars": 255,
+  "category": "Browser, web & search",
+  "what": "Firecrawl's official Claude plugin for search and clean scraping",
+  "suggested_by": [
+   "Austin Marchese",
+   "Tech With Tim"
+  ]
+ }
+]
